@@ -4,5 +4,6 @@ github: "jenkinsci/antisamy-markup-formatter-plugin"
 paths:
 - "org/jenkins-ci/plugins/antisamy-markup-formatter"
 developers:
+- "danielbeck"
 - "jglick"
 - "schristou"

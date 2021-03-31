@@ -4,5 +4,4 @@ github: "jenkinsci/cloudbees-registration-plugin"
 paths:
 - "com/cloudbees/jenkins/plugins/cloudbees-registration"
 developers:
-- "kohsuke"
 - "ydubreuil"

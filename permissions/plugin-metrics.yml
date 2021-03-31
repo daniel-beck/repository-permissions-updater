@@ -4,7 +4,6 @@ github: "jenkinsci/metrics-plugin"
 paths:
 - "org/jenkins-ci/plugins/metrics"
 developers:
-- "kohsuke"
 - "sbadger"
 - "alecharp"
 - "mramonleon"

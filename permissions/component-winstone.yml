@@ -5,6 +5,5 @@ paths:
 - "org/jenkins-ci/winstone"
 developers:
 - "jglick"
-- "kohsuke"
 - "oleg_nenashev"
 - "olamy"

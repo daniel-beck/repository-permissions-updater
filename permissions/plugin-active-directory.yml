@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/active-directory"
 developers:
 - "fbelzunc"
-- "kohsuke"
 - "alecharp"
 - "batmat"
 - "egutierrez"

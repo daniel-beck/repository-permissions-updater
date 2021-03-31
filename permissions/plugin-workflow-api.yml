@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/workflow/workflow-api"
 developers:
 - "jglick"
-- "kohsuke"
 - "svanoort"
 - "abayer"
 - "dnusbaum"

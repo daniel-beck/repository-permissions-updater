@@ -4,5 +4,4 @@ github: "jenkinsci/ui-samples-plugin"
 paths:
 - "org/jenkins-ci/main/ui-samples-plugin"
 - "org/jvnet/hudson/main/ui-samples-plugin"
-developers:
-- "kohsuke"
+developers: []

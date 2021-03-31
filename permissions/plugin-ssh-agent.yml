@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/ssh-agent"
 developers:
 - "jglick"
-- "kohsuke"
 - "recena"
 - "alecharp"
 - "batmat"

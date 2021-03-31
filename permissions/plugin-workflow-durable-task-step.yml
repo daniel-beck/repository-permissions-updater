@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/workflow/workflow-durable-task-step"
 developers:
 - "jglick"
-- "kohsuke"
 - "abayer"
 - "svanoort"
 - "dnusbaum"

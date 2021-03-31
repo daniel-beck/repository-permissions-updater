@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/durable-task"
 developers:
 - "jglick"
-- "kohsuke"
 - "svanoort"
 - "abayer"
 - "dnusbaum"

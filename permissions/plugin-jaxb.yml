@@ -4,7 +4,6 @@ github: "jenkinsci/jaxb-plugin"
 paths:
 - "io/jenkins/plugins/jaxb"
 developers:
-- "kohsuke"
 - "oleg_nenashev"
 - "batmat"
 security:

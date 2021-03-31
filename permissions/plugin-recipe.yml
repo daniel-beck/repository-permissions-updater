@@ -3,5 +3,4 @@ name: "recipe"
 github: "jenkinsci/recipe-plugin"
 paths:
 - "org/jenkins-ci/plugins/recipe"
-developers:
-- "kohsuke"
+developers: []

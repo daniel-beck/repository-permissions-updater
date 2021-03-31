@@ -5,7 +5,6 @@ paths:
 - "org/jenkins-ci/plugins/script-security"
 developers:
 - "jglick"
-- "kohsuke"
 - "abayer"
 - "svanoort"
 - "rsandell"

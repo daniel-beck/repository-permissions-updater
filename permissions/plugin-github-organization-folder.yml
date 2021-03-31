@@ -5,5 +5,4 @@ paths:
 - "org/jenkins-ci/plugins/github-organization-folder"
 developers:
 - "jglick"
-- "kohsuke"
 - "recena"

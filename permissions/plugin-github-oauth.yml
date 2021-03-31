@@ -4,7 +4,6 @@ github: "jenkinsci/github-oauth-plugin"
 paths:
 - "org/jenkins-ci/plugins/github-oauth"
 developers:
-- "kohsuke"
 - "sag47"
 - "skottler"
 - "surya548"

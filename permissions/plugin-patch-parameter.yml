@@ -3,5 +3,4 @@ name: "patch-parameter"
 github: "jenkinsci/patch-parameter-plugin"
 paths:
 - "org/jenkins-ci/plugins/patch-parameter"
-developers:
-- "kohsuke"
+developers: []
